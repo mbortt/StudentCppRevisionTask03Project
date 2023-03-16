@@ -43,6 +43,7 @@ int task01(int number) {
 		return 0;
 	}
 
+
 	int sum = 0;
 
 	sum += number % 10;
